@@ -1,4 +1,0 @@
-v 4
-file . "candle4.vhd" "b2fb8324eaaddd9d7f13b2685ec4b76f37b8d471" "20170108122652.163":
-  entity candle4 at 10( 178) + 0 on 17;
-  architecture rtl of candle4 at 25( 442) + 0 on 18;
