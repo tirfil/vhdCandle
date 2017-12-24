@@ -7,7 +7,9 @@ LED is fully emitting (100%) 50% of the time. For the other 50% of time, LED bri
 Flickering update objective is about 15 Hertz.
 
 Randomization is operated by a LFSR 17-bit.
+
 A new 5 bit PWM signal is generated every 2.62 ms.
+
 32 x 2.62 ms = 83.84 ms -> 12 Hertz.
 
 12 leds prototype for Xmas:
