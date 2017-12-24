@@ -10,3 +10,7 @@ Randomization is operated by a LFSR 17-bit.
 A new 5 bit PWM signal is generated every 2.62 ms.
 32 x 2.62 ms = 83.84 ms -> 12 Hertz.
 
+12 leds prototype for Xmas:
+
+![Watch the video](https://github.com/tirfil/vhdCandle/blob/master/MEDIA/CIMG7627.JPG)(https://github.com/tirfil/vhdCandle/blob/master/MEDIA/CIMG7626.AVI)
+
